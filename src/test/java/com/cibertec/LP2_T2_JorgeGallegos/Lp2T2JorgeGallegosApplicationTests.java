@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class Lp2T2JorgeGallegosApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() { 
 	}
 
 }
